@@ -1,0 +1,14 @@
+.question-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .question {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+  }
+  
+  .checkbox-label {
+    margin-left: 5px;
+  }
